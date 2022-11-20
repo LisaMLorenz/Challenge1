@@ -25,9 +25,9 @@ https://lisamlorenz.github.io/Challenge1/
 
 HTML and images updated for better accessibility and search engine optimization. If you open the DevTools console, you can see image descriptions and sections. The page's design and order has not changed. 
 
-[image](./assets/images/ScreenS01.png)
-[image](./assets/images/ScreenS02.png)
-[image](./assets/images/ScreenS03.png)
+[screenshot top](./assets/images/ScreenS01.png)
+[screenshot middle](./assets/images/ScreenS02.png)
+[screenshot bottom](./assets/images/ScreenS03.png)
 
 
 ## Credits
