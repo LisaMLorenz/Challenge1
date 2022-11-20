@@ -21,7 +21,13 @@ N/A
 
 ## Usage
 
-Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. If you open the DevTools console, you can see the JavaScript running. It will list the topics learned from prework and choose one topic for you to study first. 
+https://lisamlorenz.github.io/Challenge1/
+
+HTML and images updated for better accessibility and search engine optimization. If you open the DevTools console, you can see image descriptions and sections. The page's design and order has not changed. 
+
+[image](./assets/images/ScreenS01.png)
+[image](./assets/images/ScreenS02.png)
+[image](./assets/images/ScreenS03.png)
 
 
 ## Credits
