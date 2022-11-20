@@ -6,14 +6,18 @@ I want to improve the accessibility of the given starter code to learn how to op
 
 The challenge solves communication problems as accessible code is easier to fix and easier to improve and adjust.
 
-Application's links all function correctly.
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-Application's CSS file is properly commented.
-Semantic HTML elements can be found throughout the source code
-HTML elements follow a logical structure independent of styling and positioning
-Image and icon elements contain accessible alt attributes
-Heading attributes fall in sequential order
-Title elements contain a concise, descriptive title
+### CSS
+- Application's links all function correctly.
+- Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+- Application's CSS file is properly commented.
+
+### HTML
+
+- Semantic HTML elements can be found throughout the source code
+- HTML elements follow a logical structure independent of styling and positioning
+- Image and icon elements contain accessible alt attributes
+- Heading attributes fall in sequential order
+- Title elements contain a concise, descriptive title
 
 ## Installation
 
